@@ -2,7 +2,8 @@
   <h1>REST API Spring Boot</h1>
   
   <p>
-    To Do List App
+    To-Do List App
+    Contains Users and Tasks
   </p>
   <p>
   <a href="https://github.com/edegan-furb/Rocketseat-Java/graphs/contributors">
