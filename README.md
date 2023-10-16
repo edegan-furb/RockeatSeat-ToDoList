@@ -24,7 +24,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="45" height="45"/>
 </p>
 <p>
-  <img src="https://github.com/edegan-furb/RocketSeat-ToDoList/blob/main/certificate.pdf" title="Certificate" alt="Certificate" width="200" height="200"/>
+  <img src="https://github.com/edegan-furb/RocketSeat-ToDoList/blob/main/certificate.png" title="Certificate" alt="Certificate" width="400" height="400"/>
 </p>
 </div>
 
