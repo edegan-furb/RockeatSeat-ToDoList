@@ -20,9 +20,9 @@
   </a>
 </p>
 <p>
- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="45" height="45"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="45" height="45"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-woodmark.svg" title="docker" alt="docker" width="45" height="45"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="45" height="45"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="45" height="45"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="docker" alt="docker" width="45" height="45"/>
 </p>
 <p>
   <img src="https://github.com/edegan-furb/RocketSeat-ToDoList/blob/main/certificate.png" title="Certificate" alt="Certificate" width="600" height="372"/>
