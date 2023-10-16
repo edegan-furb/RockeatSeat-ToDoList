@@ -23,5 +23,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="45" height="45"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="45" height="45"/>
 </p>
+<p>
+  <img src="https://github.com/edegan-furb/RocketSeat-ToDoList" title="Certificate" alt="Certificate" width="200" height="200"/>
+</p>
 </div>
 
